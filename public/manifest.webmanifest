@@ -1,0 +1,11 @@
+{
+  "name": "Diabuddy",
+  "short_name": "Diabuddy",
+  "description": "Your daily care companion.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fbf8",
+  "theme_color": "#f8fbf8",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
